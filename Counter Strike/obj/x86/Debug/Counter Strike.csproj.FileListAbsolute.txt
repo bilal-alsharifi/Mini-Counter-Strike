@@ -1,0 +1,101 @@
+c:\users\bilalo89\documents\visual studio 2010\Projects\Counter Strike\Counter Strike\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bilalo89\documents\visual studio 2010\Projects\Counter Strike\Counter Strike\bin\Debug\Counter Strike.exe
+c:\users\bilalo89\documents\visual studio 2010\Projects\Counter Strike\Counter Strike\bin\Debug\Counter Strike.pdb
+c:\users\bilalo89\documents\visual studio 2010\Projects\Counter Strike\Counter Strike\bin\Debug\OpenTK.dll
+c:\users\bilalo89\documents\visual studio 2010\Projects\Counter Strike\Counter Strike\bin\Debug\OpenTK.xml
+c:\users\bilalo89\documents\visual studio 2010\Projects\Counter Strike\Counter Strike\obj\x86\Debug\Counter Strike.exe
+c:\users\bilalo89\documents\visual studio 2010\Projects\Counter Strike\Counter Strike\obj\x86\Debug\Counter Strike.pdb
+C:\Users\Slik.Eng\Desktop\Counter Strike\Counter Strike\obj\x86\Debug\Counter Strike.exe
+C:\Users\Slik.Eng\Desktop\Counter Strike\Counter Strike\obj\x86\Debug\Counter Strike.pdb
+C:\Users\Slik.Eng\Desktop\Counter Strike\Counter Strike\bin\Debug\Counter Strike.exe
+C:\Users\Slik.Eng\Desktop\Counter Strike\Counter Strike\bin\Debug\Counter Strike.pdb
+C:\Users\Slik.Eng\Desktop\Counter Strike\Counter Strike\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\Slik.Eng\Desktop\Counter Strike\Counter Strike\bin\Debug\OpenTK.dll
+C:\Users\Slik.Eng\Desktop\Counter Strike\Counter Strike\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Slik.Eng\Desktop\Counter Strike\Counter Strike\bin\Debug\OpenTK.xml
+C:\Users\Slik.Eng\Desktop\Counter Strike\Counter Strike\bin\Debug\OpenTK.Compatibility.xml
+C:\Users\Slik.Eng\Desktop\Counter Strike\Counter Strike\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Slik.Eng\Desktop\Counter Strike\Counter Strike\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Slik.Eng\Desktop\graphics\Counter Strike basic\Counter Strike\obj\x86\Debug\Counter Strike.exe
+C:\Users\Slik.Eng\Desktop\graphics\Counter Strike basic\Counter Strike\obj\x86\Debug\Counter Strike.pdb
+C:\Users\Slik.Eng\Desktop\graphics\Counter Strike basic\Counter Strike\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Slik.Eng\Desktop\graphics\Counter Strike basic\Counter Strike\bin\Debug\Counter Strike.exe
+C:\Users\Slik.Eng\Desktop\graphics\Counter Strike basic\Counter Strike\bin\Debug\Counter Strike.pdb
+C:\Users\Slik.Eng\Desktop\graphics\Counter Strike basic\Counter Strike\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\Slik.Eng\Desktop\graphics\Counter Strike basic\Counter Strike\bin\Debug\OpenTK.dll
+C:\Users\Slik.Eng\Desktop\graphics\Counter Strike basic\Counter Strike\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Slik.Eng\Desktop\graphics\Counter Strike basic\Counter Strike\bin\Debug\OpenTK.xml
+C:\Users\Slik.Eng\Desktop\graphics\Counter Strike basic\Counter Strike\bin\Debug\OpenTK.Compatibility.xml
+C:\Users\Slik.Eng\Desktop\graphics\Counter Strike basic\Counter Strike\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Bilalo89\Desktop\Counter Strike basic\Counter Strike\obj\x86\Debug\Counter Strike.exe
+C:\Users\Bilalo89\Desktop\Counter Strike basic\Counter Strike\obj\x86\Debug\Counter Strike.pdb
+D:\Culture\University\3rd Year\Computer Graphics\Counter Strike1\Counter Strike\Counter Strike\obj\x86\Debug\Counter Strike.exe
+D:\Culture\University\3rd Year\Computer Graphics\Counter Strike1\Counter Strike\Counter Strike\obj\x86\Debug\Counter Strike.pdb
+D:\Culture\University\3rd Year\Computer Graphics\Counter Strike1\Counter Strike\Counter Strike\bin\Debug\Counter Strike.exe
+D:\Culture\University\3rd Year\Computer Graphics\Counter Strike1\Counter Strike\Counter Strike\bin\Debug\Counter Strike.pdb
+D:\Culture\University\3rd Year\Computer Graphics\Counter Strike1\Counter Strike\Counter Strike\bin\Debug\OpenTK.Compatibility.dll
+D:\Culture\University\3rd Year\Computer Graphics\Counter Strike1\Counter Strike\Counter Strike\bin\Debug\OpenTK.dll
+D:\Culture\University\3rd Year\Computer Graphics\Counter Strike1\Counter Strike\Counter Strike\bin\Debug\OpenTK.GLControl.dll
+D:\Culture\University\3rd Year\Computer Graphics\Counter Strike1\Counter Strike\Counter Strike\bin\Debug\OpenTK.xml
+D:\Culture\University\3rd Year\Computer Graphics\Counter Strike1\Counter Strike\Counter Strike\bin\Debug\OpenTK.Compatibility.xml
+D:\Culture\University\3rd Year\Computer Graphics\Counter Strike1\Counter Strike\Counter Strike\bin\Debug\OpenTK.GLControl.xml
+D:\Culture\University\3rd Year\Computer Graphics\Counter Strike1\Counter Strike\Counter Strike\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bilalo89\Desktop\Counter Strike\Counter Strike\obj\x86\Debug\Counter Strike.exe
+C:\Users\Bilalo89\Desktop\Counter Strike\Counter Strike\obj\x86\Debug\Counter Strike.pdb
+C:\Users\Bilalo89\Desktop\Counter Strike\Counter Strike\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bilalo89\Desktop\Counter Strike\Counter Strike\bin\Debug\Counter Strike.exe
+C:\Users\Bilalo89\Desktop\Counter Strike\Counter Strike\bin\Debug\Counter Strike.pdb
+C:\Users\Bilalo89\Desktop\Counter Strike\Counter Strike\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\Bilalo89\Desktop\Counter Strike\Counter Strike\bin\Debug\OpenTK.dll
+C:\Users\Bilalo89\Desktop\Counter Strike\Counter Strike\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Bilalo89\Desktop\Counter Strike\Counter Strike\bin\Debug\OpenTK.xml
+C:\Users\Bilalo89\Desktop\Counter Strike\Counter Strike\bin\Debug\OpenTK.Compatibility.xml
+C:\Users\Bilalo89\Desktop\Counter Strike\Counter Strike\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy\Counter Strike\bin\Debug\Counter Strike.exe
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy\Counter Strike\bin\Debug\Counter Strike.pdb
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy\Counter Strike\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy\Counter Strike\bin\Debug\OpenTK.dll
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy\Counter Strike\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy\Counter Strike\bin\Debug\OpenTK.xml
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy\Counter Strike\bin\Debug\OpenTK.Compatibility.xml
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy\Counter Strike\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy\Counter Strike\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy\Counter Strike\obj\x86\Debug\Counter Strike.exe
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy\Counter Strike\obj\x86\Debug\Counter Strike.pdb
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy - Copy\Counter Strike\obj\x86\Debug\Counter Strike.exe
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy - Copy\Counter Strike\obj\x86\Debug\Counter Strike.pdb
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy - Copy\Counter Strike\bin\Debug\Counter Strike.exe
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy - Copy\Counter Strike\bin\Debug\Counter Strike.pdb
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy - Copy\Counter Strike\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy - Copy\Counter Strike\bin\Debug\OpenTK.dll
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy - Copy\Counter Strike\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy - Copy\Counter Strike\bin\Debug\OpenTK.xml
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy - Copy\Counter Strike\bin\Debug\OpenTK.Compatibility.xml
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy - Copy\Counter Strike\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy - Copy\Counter Strike\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy - Copy - Copy\Counter Strike\obj\x86\Debug\Counter Strike.exe
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy - Copy - Copy\Counter Strike\obj\x86\Debug\Counter Strike.pdb
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy - Copy - Copy\Counter Strike\bin\Debug\Counter Strike.exe
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy - Copy - Copy\Counter Strike\bin\Debug\Counter Strike.pdb
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy - Copy - Copy\Counter Strike\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy - Copy - Copy\Counter Strike\bin\Debug\OpenTK.dll
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy - Copy - Copy\Counter Strike\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy - Copy - Copy\Counter Strike\bin\Debug\OpenTK.xml
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy - Copy - Copy\Counter Strike\bin\Debug\OpenTK.Compatibility.xml
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy - Copy - Copy\Counter Strike\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Bilalo89\Desktop\Counter Strike - Copy - Copy - Copy\Counter Strike\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Culture\University\3rd Year\Computer Graphics\Counter Strike\Counter Strike\bin\Debug\Counter Strike.exe.manifest
+D:\Culture\University\3rd Year\Computer Graphics\Counter Strike\Counter Strike\bin\Debug\Counter Strike.application
+D:\Culture\University\3rd Year\Computer Graphics\Counter Strike\Counter Strike\bin\Debug\Counter Strike.exe
+D:\Culture\University\3rd Year\Computer Graphics\Counter Strike\Counter Strike\bin\Debug\Counter Strike.pdb
+D:\Culture\University\3rd Year\Computer Graphics\Counter Strike\Counter Strike\bin\Debug\OpenTK.Compatibility.dll
+D:\Culture\University\3rd Year\Computer Graphics\Counter Strike\Counter Strike\bin\Debug\OpenTK.dll
+D:\Culture\University\3rd Year\Computer Graphics\Counter Strike\Counter Strike\bin\Debug\OpenTK.GLControl.dll
+D:\Culture\University\3rd Year\Computer Graphics\Counter Strike\Counter Strike\bin\Debug\OpenTK.xml
+D:\Culture\University\3rd Year\Computer Graphics\Counter Strike\Counter Strike\bin\Debug\OpenTK.Compatibility.xml
+D:\Culture\University\3rd Year\Computer Graphics\Counter Strike\Counter Strike\bin\Debug\OpenTK.GLControl.xml
+D:\Culture\University\3rd Year\Computer Graphics\Counter Strike\Counter Strike\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Culture\University\3rd Year\Computer Graphics\Counter Strike\Counter Strike\obj\x86\Debug\Counter Strike.exe.manifest
+D:\Culture\University\3rd Year\Computer Graphics\Counter Strike\Counter Strike\obj\x86\Debug\Counter Strike.application
+D:\Culture\University\3rd Year\Computer Graphics\Counter Strike\Counter Strike\obj\x86\Debug\Counter Strike.exe
+D:\Culture\University\3rd Year\Computer Graphics\Counter Strike\Counter Strike\obj\x86\Debug\Counter Strike.pdb
